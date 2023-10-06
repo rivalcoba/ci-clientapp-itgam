@@ -1,5 +1,5 @@
 <p align="center">
-<img src="public/img/itgam-banner.jpg"
+<img src="https://github.com/rivalcoba/restApi-ci-itgam/blob/19-archivos-dotenv/public/img/itgam-banner.jpg"
  style= "height:autopx;
   width:800" 
    />
@@ -23,7 +23,7 @@
 5. [Ejemplos](#Ejemplo)
 6. [Contribución](#Contribucion)
 7. [Agradecimientos](#Agradecimientos)
-8. [Licencia](#licencia)
+8. [Licencia](#Licencia)
 9. [Contacto](#Contacto)
 
 ## Desarrolladores <a name="Desarrolladores"></a>
@@ -51,7 +51,7 @@ Desarrollar una aplicación del lado del cliente eficiente y escalable para la b
 - Realizar pruebas exhaustivas para garantizar la calidad y funcionamiento correcto de la aplicación.
 - Documentar el proceso de desarrollo y la funcionalidad de la aplicación para facilitar su mantenimiento y futuras mejoras.
 
-## Uso de la API<a name="Usu"></a>
+## Uso del FrontEnd<a name="Uso"></a>
 
 
 ## Ejemplos <a name="Ejemplo"></a>
@@ -68,14 +68,14 @@ Desarrollar una aplicación del lado del cliente eficiente y escalable para la b
 
 ## Contacto<a name="Contacto"></a>
 
-  <img src="public/img/WhatsApp.jpg"
-  style="max-width:3%;
+  <img src="https://github.com/rivalcoba/restApi-ci-itgam/blob/19-archivos-dotenv/public/img/WhatsApp.jpg"
+  style="max-width:20%;
  border-radius: 100%;
-  height: 15px;
-  width:20px;" >  
-<img src="public/img/Facebook.jpg"
-  style="max-width:3%;
+  height: 30px;
+  width:30px;" >  
+<img src="https://github.com/rivalcoba/restApi-ci-itgam/blob/19-archivos-dotenv/public/img/Facebook.jpg"
+  style="max-width:20%;
  border-radius: 100%;
-  height: 10px;
-  width:20px;" >
+  height: 30px;
+  width:30px;" >
    
