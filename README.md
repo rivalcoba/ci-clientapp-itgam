@@ -7,7 +7,7 @@
    <h1> Front-end del Sistema de Administración de Recursos de la Biblioteca del ITGAM </h1>
    
    ## Descripciòn del proyecto
-   El proyecto tiene como objetivo desarrollar una aplicación eficiente y escalable del lado del cliente para la Biblioteca del Instituto Tecnológico de Gustavo A. Madero, utilizando una pila tecnológica conformada por Nuxt y Tailwind. El objetivo es crear una interfaz de usuario intuitiva y atractiva que permita a los usuarios realizar sus tareas de manera eficiente, implementando las funcionalidades requeridas mediante tecnologías modernas y eficientes. Para lograr esto, se llevará a cabo un análisis exhaustivo de los requisitos para determinar las funcionalidades necesarias en la aplicación, se diseñará una interfaz de usuario amigable y atractiva, se implementarán las funcionalidades requeridas y se realizarán pruebas exhaustivas para garantizar la calidad y el correcto funcionamiento de la aplicación. Además, se documentará el proceso de desarrollo y la funcionalidad de la aplicación para facilitar su mantenimiento y futuras mejoras.
+   El proyecto tiene como objetivo desarrollar un sistema eficiente y escalable del lado del cliente para el Centro de Información del Instituto Tecnológico de Gustavo A. Madero, utilizando una pila tecnológica conformada por Vue.js. El objetivo es crear una interfaz de usuario intuitivo e interactivo que permita a los usuarios realizar sus tareas de manera eficiente, implementando las funcionalidades requeridas mediante tecnologías modernas y eficientes. Para lograr esto, se llevó a cabo un análisis exhaustivo de los requisitos para determinar las funcionalidades necesarias en el sistema, se diseñó una interfaz de usuario intuitiva e interactiva, en el que se implementarán funcionalidades requeridas que ayudaran a poder automatizar gestiones que realiza el área del Centro de Información del Instituto Tecnológico de Gustavo A. Madero. 
 
    ## Estado del proyecto
  En Desarrollo
@@ -42,14 +42,14 @@
 ## Objetivos<a name="Objetivos"></a>
 
 ### General <a name="General"></a>
-Desarrollar una aplicación del lado del cliente eficiente y escalable para la biblioteca del Instituto Tecnológico de Gustavo A. Madero utilizando una pila tecnológica conformada por Nuxt y tailwind. 
+Desarrollar un sistema del lado del cliente eficiente y escalable para el Centro de Información del Instituto Tecnológico de Gustavo A. Madero utilizando una pila tecnológica conformada por Vue.js. 
 
 ### Especifico <a name="Especifico"></a>
-- Realizar un análisis de requerimientos para determinar las funcionalidades necesarias en la aplicación.
-- Diseñar una interfaz de usuario intuitiva y atractiva que permita a los usuarios realizar sus tareas de manera eficiente.
-- Implementar las funcionalidades requeridas utilizando tecnologías modernas y eficientes.
-- Realizar pruebas exhaustivas para garantizar la calidad y funcionamiento correcto de la aplicación.
-- Documentar el proceso de desarrollo y la funcionalidad de la aplicación para facilitar su mantenimiento y futuras mejoras.
+- Realizar un análisis de requerimientos para determinar las funcionalidades necesarias del sistema.
+- Diseñar una interfaz de usuario intuitiva e interactiva que permita a los usuarios realizar sus procesos de manera eficiente.
+- Implementar las funcionalidades requeridas en el Centro de Información del Instituto Tecnológico de Gustavo A. Madero haciendo uso de las tecnologías modernas y eficientes.
+- Realizar pruebas integración para poder garantizar la calidad y el funcionamiento ya en producción del sistema.
+- Se documentara el proceso de desarrollo y la funcionalidad para que sea adaptable  a la evolución de las necesidades del usuario.
 
 ## Uso del FrontEnd<a name="Uso"></a>
 
