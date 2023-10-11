@@ -68,14 +68,3 @@ Desarrollar un sistema del lado del cliente eficiente y escalable para el Centro
 
 ## Contacto<a name="Contacto"></a>
 
-  <img src="https://github.com/rivalcoba/restApi-ci-itgam/blob/19-archivos-dotenv/public/img/WhatsApp.jpg"
-  style="max-width:20%;
- border-radius: 100%;
-  height: 30px;
-  width:30px;" >  
-<img src="https://github.com/rivalcoba/restApi-ci-itgam/blob/19-archivos-dotenv/public/img/Facebook.jpg"
-  style="max-width:20%;
- border-radius: 100%;
-  height: 30px;
-  width:30px;" >
-   
