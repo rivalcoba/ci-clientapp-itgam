@@ -7,7 +7,7 @@
    <h1> Front-end del Sistema de Administración de Recursos de la Biblioteca del ITGAM </h1>
    
    ## Descripciòn del proyecto
-   El proyecto tiene como objetivo desarrollar un sistema eficiente y escalable del lado del cliente para el Centro de Información del Instituto Tecnológico de Gustavo A. Madero, utilizando una pila tecnológica conformada por Vue.js. El objetivo es crear una interfaz de usuario intuitivo e interactivo que permita a los usuarios realizar sus tareas de manera eficiente, implementando las funcionalidades requeridas mediante tecnologías modernas y eficientes. Para lograr esto, se llevó a cabo un análisis exhaustivo de los requisitos para determinar las funcionalidades necesarias en el sistema, se diseñó una interfaz de usuario intuitiva e interactiva, en el que se implementarán funcionalidades requeridas que ayudaran a poder automatizar gestiones que realiza el área del Centro de Información del Instituto Tecnológico de Gustavo A. Madero. 
+   El proyecto tiene como objetivo desarrollar un sistema eficiente y escalable del lado del cliente para el Centro de Información del Instituto Tecnológico de Gustavo A. Madero, utilizando una pila tecnológica conformada por Vue.js y Pinia. El objetivo es crear una interfaz de usuario intuitivo e interactivo que permita a los usuarios realizar sus tareas de manera eficiente, implementando las funcionalidades requeridas mediante tecnologías modernas y eficientes. Para lograr esto, se llevó a cabo un análisis exhaustivo de los requisitos para determinar las funcionalidades necesarias en el sistema, se diseñó una interfaz de usuario intuitiva e interactiva, en el que se implementarán funcionalidades requeridas que ayudaran a poder automatizar gestiones que realiza el área del Centro de Información del Instituto Tecnológico de Gustavo A. Madero. 
 
    ## Estado del proyecto
  En Desarrollo
@@ -42,7 +42,7 @@
 ## Objetivos<a name="Objetivos"></a>
 
 ### General <a name="General"></a>
-Desarrollar un sistema del lado del cliente eficiente y escalable para el Centro de Información del Instituto Tecnológico de Gustavo A. Madero utilizando una pila tecnológica conformada por Vue.js. 
+Desarrollar un sistema del lado del cliente eficiente y escalable para el Centro de Información del Instituto Tecnológico de Gustavo A. Madero utilizando una pila tecnológica conformada por Vue.js y Pinia. 
 
 ### Especifico <a name="Especifico"></a>
 - Realizar un análisis de requerimientos para determinar las funcionalidades necesarias del sistema.
