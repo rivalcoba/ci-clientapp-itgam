@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/rivalcoba/restApi-ci-itgam/blob/19-archivos-dotenv/public/img/itgam-banner.jpg"
+<img src="/itgam-banner.jpg"
  style= "height:autopx;
   width:800" 
    />
